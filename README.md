@@ -1,3 +1,6 @@
 # JS_30Project
 
-Create 30 javascript projects in 30 days.
+Create 30 Project Using HTML, CSS, JS
+- JavaScript Drum Kit
+- Clock Using JS, CSS
+- CSS Variables
