@@ -6,3 +6,5 @@ Create 30 Project Using HTML, CSS, JS
 - CSS Variables
 - Array Cardio
 - Flex Panel Gallery
+- Type Ahead
+- Fun with HTML5 Canvas
