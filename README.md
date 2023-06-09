@@ -10,3 +10,5 @@ Create 30 Project Using HTML, CSS, JS
 - Fun with HTML5 Canvas
 - Dev Tools Domination
 - Hold Shift and Check Checkboxes
+- Custom Video Player
+- Key Sequence Detection
