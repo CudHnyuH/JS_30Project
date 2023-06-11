@@ -12,3 +12,6 @@ Create 30 Project Using HTML, CSS, JS
 - Hold Shift and Check Checkboxes
 - Custom Video Player
 - Key Sequence Detection
+- Slide in on Scroll
+- JavaScript References VS Copying
+- LocalStorage
