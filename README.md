@@ -15,3 +15,12 @@ Create 30 Project Using HTML, CSS, JS
 - Slide in on Scroll
 - JavaScript References VS Copying
 - LocalStorage
+- Sort Without Articles
+- Mouse Move Shadow
+- Adding Up Times with Reduce
+- Webcam Fun
+- Speech Detection
+- Geolocation
+- Follow Along Link Highlighter
+- Speech Synthesis
+- Sticky Nav
