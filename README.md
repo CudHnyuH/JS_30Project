@@ -24,3 +24,5 @@ Create 30 Project Using HTML, CSS, JS
 - Follow Along Link Highlighter
 - Speech Synthesis
 - Sticky Nav
+- Stripe Follow Along Nav
+- Event Capture, Propagation, Bubbling and Once
