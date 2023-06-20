@@ -26,3 +26,7 @@ Create 30 Project Using HTML, CSS, JS
 - Sticky Nav
 - Stripe Follow Along Nav
 - Event Capture, Propagation, Bubbling and Once
+- Click and Drag
+- Video Speed Controller
+- Countdown Timer
+- Whack A Mole
